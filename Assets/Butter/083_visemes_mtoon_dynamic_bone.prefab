@@ -1286,7 +1286,7 @@ GameObject:
   - component: {fileID: 5427535294405426995}
   - component: {fileID: 114375446325916434}
   m_Layer: 0
-  m_Name: 083_visemes_mtoondynamic_bone
+  m_Name: 083_visemes_mtoon_dynamic_bone
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1339,7 +1339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Root: {fileID: 400002, guid: 8beaa91fc66205d44be6ef6588967768, type: 3}
+  m_Root: {fileID: 5427535294397731025}
   m_UpdateRate: 60
   m_UpdateMode: 3
   m_Damping: 0.063
