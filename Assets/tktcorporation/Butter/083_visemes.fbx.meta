@@ -131,7 +131,12 @@ ModelImporter:
     9500000: //RootNode
     13700000: mesh_char_120
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: char83
+    second: {fileID: 2100000, guid: e809cce249aa2cb46b36e8234234a5c5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
